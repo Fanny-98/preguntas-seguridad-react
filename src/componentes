@@ -1,0 +1,11 @@
+import React from 'react';
+
+const PreguntasSeguridad = () => {
+    return (
+        <div>
+            <h1>Preguntas Seguridad</h1>
+        </div>
+    )
+}
+
+export default PreguntasSeguridad
